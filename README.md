@@ -3,7 +3,7 @@
 <h3 align="center">React frontend developer</h3>
 
 <div style="width:100%;display:flex;justify-content:center;align-items:center">
-<>  
+<div>  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=music-hound&layout=compact&theme=tokyonight)
-</>
+</div>
 </div>
