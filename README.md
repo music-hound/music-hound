@@ -1,6 +1,5 @@
 <h1 align="center">Hi there, I'm Igor!
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">React frontend developer</h3>
 
 <span>
 I'm a frontend developer passionate about building fast, accessible, and interactive web applications. I work primarily with React, TypeScript, and Redux, and I enjoy crafting clean, scalable UI components. I'm also experienced in working with WebSocket-based real-time features and modern development workflows.
@@ -9,16 +8,9 @@ Outside of tech, I'm an audio engineer with a deep interest in sound design, mix
 </span>
 
 <h4>You can find me on:</h4>
-<div style="display: flex">
-<a href="https://google.com" target="_blank">
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-<a href="https://google.com" target="_blank">
-
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
-</div>
-
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
 
