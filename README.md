@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=music-hound&show_icons=true&theme=tokyonight)
 -->
-<div style="display:flex;justify-content:center;">
+<div style="width:100%;display:flex;justify-content:center;">
   
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=music-hound&layout=compact&theme=tokyonight)
 </div>
