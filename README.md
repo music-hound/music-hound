@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 -->
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
-![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=github-compact)
+![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=music-hound&theme=github-compact)
