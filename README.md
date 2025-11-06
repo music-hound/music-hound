@@ -38,14 +38,14 @@ Outside of tech, I'm an audio engineer with a deep interest in sound design, mix
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=music-hound&layout=compact&theme=tokyonight)
 
-<h4>Also using in my projects:</h4>
+<h4>Backend tools I use in my projects:</h4>
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-<h4>Tools I use:</h4>
+<h4>Misc tools I use:</h4>
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
