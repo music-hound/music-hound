@@ -10,6 +10,7 @@ Outside of tech, I'm an audio engineer with a deep interest in sound design, mix
 <h4>You can find me on:</h4>
 
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)</a>
 ![Behance](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)
 
@@ -36,8 +37,6 @@ Outside of tech, I'm an audio engineer with a deep interest in sound design, mix
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=music-hound&layout=compact&theme=tokyonight)
 
 <h4>Backend tools I use in my projects:</h4>
 
